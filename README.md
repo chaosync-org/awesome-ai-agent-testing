@@ -343,6 +343,30 @@ Comprehensive frameworks for developing and testing AI agents.
   - Code quality assessment
   - Project completion tracking
 
+- [AgentAssay](https://github.com/qualixar/agentassay) - Token-efficient AI agent testing framework.
+  - Stochastic 3-valued verdicts (PASS/FAIL/UNCERTAIN)
+  - 5-dimensional coverage (behavior, input, environment, temporal, cost)
+  - Behavioral fingerprinting (86% mutation detection)
+  - Adaptive budget (78-100% cost reduction)
+  - 10 framework adapters (LangGraph, CrewAI, AutoGen, OpenAI, Anthropic, Strands, more)
+  - Backed by [arXiv:2603.02601](https://arxiv.org/abs/2603.02601) | `pip install agentassay`
+
+- [AgentAssert](https://github.com/qualixar/agentassert-abc) - Runtime behavioral contracts for AI agents.
+  - ContractSpec DSL for declarative behavioral specifications
+  - Drift detection via Jensen-Shannon Divergence
+  - SPRT (Sequential Probability Ratio Test) certification
+  - Compositional guarantees with Lyapunov proofs
+  - OU drift dynamics modeling
+  - Backed by [arXiv:2602.22302](https://arxiv.org/abs/2602.22302) with 4 external citations | `pip install agentassert-abc`
+
+- [SkillFortify](https://github.com/qualixar/skillfortify) - Formal verification for AI agent skill supply chain security.
+  - Sound static analysis with 100% precision on 540-skill benchmark
+  - 22 frameworks supported (Claude, MCP, CrewAI, AutoGen, OpenAI Agents, LangChain, more)
+  - ASBOM (Agent Software Bill of Materials) generation
+  - DY-Skill formal model
+  - 96.95% F1 score, zero false positives
+  - Backed by [arXiv:2603.00195](https://arxiv.org/abs/2603.00195) with 3 external citations | `pip install skillfortify`
+
 ### Commercial Solutions
 
 Enterprise-grade testing platforms with advanced features.
