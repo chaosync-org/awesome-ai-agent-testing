@@ -457,6 +457,10 @@ Specialized tools for testing different categories of AI agents.
   - API call sequence validation
   - Domain-specific tool testing
   - Human-annotated test cases
+- [Not Human Search](https://nothumansearch.ai/) - Agent-readiness search and live MCP endpoint testing for tool-using agents.
+  - Live `verify_mcp` JSON-RPC probe for checking whether an endpoint is a spec-compliant MCP server
+  - Agentic readiness score across MCP, OpenAPI, structured API, llms.txt, ai-plugin, robots, and schema signals
+  - Public API and MCP server for finding agent-ready tools before wiring them into an agent
 
 #### Domain-Specific Agent Testing
 - [HealthBench](https://github.com/microsoft/HealthBench) - Medical AI agent evaluation
@@ -962,6 +966,7 @@ Example implementations and templates.
 - [Testing Templates](https://github.com/example/testing-templates) - Reusable test templates
 - [Benchmark Implementations](https://github.com/example/benchmarks) - Reference implementations
 - [CI/CD Pipelines](https://github.com/example/cicd-agents) - Automation examples
+- [NHS Score Check Action](https://github.com/unitedideas/nhs-score-check-action) - GitHub Action that checks a site's agentic readiness score and fails CI when it drops below a threshold.
 
 ### Videos and Courses
 
