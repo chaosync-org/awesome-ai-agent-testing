@@ -445,6 +445,10 @@ Specialized tools for testing different categories of AI agents.
   - Standardized evaluation protocols
 
 #### Tool-Using Agent Testing
+- [Not Human Search verify_mcp](https://nothumansearch.ai) - Live JSON-RPC probe for testing MCP tool-using agent endpoints
+  - Confirms MCP server reachability and protocol conformance at runtime
+  - Scores agentic readiness across 100 points (llms.txt, OpenAPI, MCP signals)
+  - CI integration via nhs-score-check GitHub Action: `unitedideas/nhs-score-check-action`
 - [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - Benchmark for function calling
   - Multi-turn and parallel function calling
   - Relevance detection and parameter extraction
