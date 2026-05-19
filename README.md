@@ -1176,6 +1176,11 @@ Corporate research advancing agent testing.
 
 Tools for monitoring and observing agent behavior in production.
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - **[39 Stars]** - Local-first TUI and CLI for evaluating AI coding agent sessions from trace logs.
+  - Cost, token, latency, and failure regression gates
+  - Session health scoring for CI workflows
+  - Supports Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and other coding-agent logs
+
 - [LangFuse](https://langfuse.com/) - Open-source LLM observability platform.
   - Trace and visualize agent executions
   - Debug reasoning failures
