@@ -343,6 +343,18 @@ Comprehensive frameworks for developing and testing AI agents.
   - Code quality assessment
   - Project completion tracking
 
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
+  - 50+ ready-to-use metrics for agents and LLM apps
+  - LLM-as-Judge augmentation and custom evaluators
+  - Built-in guardrail scanners (jailbreak, PII, prompt-injection)
+  - AutoEval pipelines with CI/CD support
+
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
+  - OpenTelemetry-native, no vendor lock-in
+  - Auto-instruments 50+ frameworks (LangChain, LlamaIndex, CrewAI, Bedrock)
+  - Multi-language support (Python, TypeScript, Java, C#)
+  - Captures full trace context for debugging and evaluation
+
 ### Commercial Solutions
 
 Enterprise-grade testing platforms with advanced features.
@@ -376,6 +388,12 @@ Enterprise-grade testing platforms with advanced features.
   - Drift detection
   - Performance analysis
   - Root cause analysis
+
+- [Future AGI](https://github.com/future-agi/future-agi) - Self-hostable end-to-end agent engineering platform.
+  - Tracing, evals, and guardrails in one feedback loop
+  - Built-in datasets and synthetic data tools
+  - Agent gateway for multi-provider routing
+  - Self-hostable with open-source SDKs
 
 ### Language-Specific Tools
 
@@ -655,6 +673,7 @@ Environments that change and adapt during testing.
 - [PettingZoo](https://pettingzoo.farama.org/) - Multi-agent RL environments
 - [Meta-World](https://meta-world.github.io/) - Benchmark for multi-task RL
 - [RLlib](https://docs.ray.io/en/latest/rllib/index.html) - Scalable RL with dynamic environments
+- [simulate-sdk](https://github.com/future-agi/simulate-sdk) - Open-source SDK for simulating voice and text AI agents through persona- and scenario-driven multi-turn conversations before launch
 
 ### Game-Based Environments
 
