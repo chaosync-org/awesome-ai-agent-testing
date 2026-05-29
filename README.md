@@ -702,10 +702,16 @@ Systematic approaches to agent testing.
 - **Performance Benchmarking** - System-level metrics
 
 #### System Testing
+
 - **End-to-End Scenarios** - Complete workflow testing
 - **Load Testing** - Scalability verification
 - **Stress Testing** - Breaking point identification
 - **Recovery Testing** - Failure recovery validation
+
+- [CUDAnalyst](https://github.com/yuxuan-z19/cudanalyst) - Generation-level attribution framework for self-evolving agents
+  - Address analysis difficulty due to stochastic drift in end-to-end ablation via selective intervention on frozen, raw backbone trajectories.
+  - Attributing impact of context components on generation quality, instead of Shapley-based credit assignment for each agent
+  - Indicating tool synergy as a new evaluation dimension for agent-focused LLM evaluation
 
 #### Acceptance Testing
 - **User Scenario Testing** - Real-world use case validation
