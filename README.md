@@ -1194,6 +1194,11 @@ Tools for monitoring and observing agent behavior in production.
   - Drift detection
   - Privacy-preserving monitoring
 
+- [Tuning Engines](https://www.tuningengines.com/) - AI control and observability layer for production agents.
+  - Trace model, MCP, skill, workflow, policy, approval, state-reference, and outcome events
+  - Track cost, latency, policy decisions, approvals, and run outcomes
+  - Feed trace/outcome data into regression tests, golden datasets, and audit evidence
+
 - [Galileo](https://www.rungalileo.io/) - LLM observability and evaluation.
   - Error analysis dashboards
   - Dataset curation
