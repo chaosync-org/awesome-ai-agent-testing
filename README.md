@@ -879,6 +879,7 @@ Ensuring agent safety and alignment.
 - [Safety Gym](https://github.com/openai/safety-gym) - OpenAI's constrained RL environments
 - [Alignment Research Center Evals](https://github.com/alignment-research-center/evals) - Alignment-focused evaluations
 - [TruthfulQA](https://github.com/sylinrl/TruthfulQA) - Measuring truthfulness in language models
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP tools to verify agent identity and reputation before x402 micropayments.
 
 ## Performance Testing
 
