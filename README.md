@@ -377,6 +377,12 @@ Enterprise-grade testing platforms with advanced features.
   - Performance analysis
   - Root cause analysis
 
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source, self-hostable platform for testing and observing voice and text agents end to end.
+  - 70+ eval metrics with LLM-as-judge
+  - Persona and scenario agent simulation
+  - Real-time guardrails for jailbreak, prompt injection, PII, and toxicity
+  - OpenTelemetry-native tracing across 50+ frameworks
+
 ### Language-Specific Tools
 
 Testing tools tailored for specific programming languages.
