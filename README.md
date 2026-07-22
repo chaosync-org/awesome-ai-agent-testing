@@ -377,6 +377,12 @@ Enterprise-grade testing platforms with advanced features.
   - Performance analysis
   - Root cause analysis
 
+- [Kane CLI](https://www.testmuai.com/kane-cli/) - Browser validation CLI that lets AI coding agents verify their work in a real browser.
+  - Natural-language test objectives, no selectors
+  - Structured pass/fail results over NDJSON
+  - Installs as a skill in Claude Code, Cursor, Codex CLI, and Gemini CLI
+  - Shareable run evidence and CI-friendly exit codes
+
 ### Language-Specific Tools
 
 Testing tools tailored for specific programming languages.
