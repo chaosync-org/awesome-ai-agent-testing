@@ -572,6 +572,7 @@ Curated datasets for evaluating AI agent performance.
 - [ALFWorld](https://alfworld.github.io/) - Text-based embodied agents in interactive environments.
 - [ScienceWorld](https://sciworld.apps.allenai.org/) - Science experiments and reasoning tasks.
 - [TextWorld](https://www.microsoft.com/en-us/research/project/textworld/) - Text-based game environments for RL agents.
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) - Judge-free scientific critique & epistemic calibration on recent science summaries; useful for agents that must refuse/overclaim carefully (critique skill ≠ calibration). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)
 
 #### Multi-Agent Datasets
 - [MARL Benchmark](https://github.com/example/marl-benchmark) - Multi-agent reinforcement learning tasks.
@@ -672,6 +673,7 @@ Using games as testing platforms.
 Systematic approaches to agent testing.
 
 #### LLM-as-a-Judge Evaluation
+- [REFUTE (judge-free contrast)](https://bgpt.pro/refute) - Offline scientific-critique board that deliberately avoids LLM judges for its core scoring axes; useful foil when testing whether agent evals depend on judge models.
 - Using strong LLMs to grade agent outputs with scoring rubrics
 - Often correlates well with human judgment
 - Enables faster iteration on agent behaviors
