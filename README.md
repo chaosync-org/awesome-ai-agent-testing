@@ -565,6 +565,7 @@ Curated datasets for evaluating AI agent performance.
 - [WebShop](https://webshop-pnlp.github.io/) - E-commerce environment for grounded language agents.
 - [TAU-Bench (τ-Bench)](https://sierra.ai/blog/benchmarking-ai-agents) - Tool-agent-user interaction benchmark for realistic task evaluation.
 - [WebArena](https://webarena.dev/) - Web-based agent evaluation in simulated browser environments.
+- [ClawBench](https://claw-bench.com/) ([GitHub](https://github.com/reacher-z/ClawBench)) - Real-world web-agent benchmark with 153 consequential tasks across 144 live websites, isolated containers, and five-layer execution traces.
 - [SWE-Bench](https://www.swebench.com/) - Software engineering agent benchmark for code generation.
 - [TruthfulQA](https://github.com/sylinrl/TruthfulQA) - 817 questions testing agent truthfulness across domains.
 
