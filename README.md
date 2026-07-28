@@ -567,6 +567,7 @@ Curated datasets for evaluating AI agent performance.
 - [WebArena](https://webarena.dev/) - Web-based agent evaluation in simulated browser environments.
 - [SWE-Bench](https://www.swebench.com/) - Software engineering agent benchmark for code generation.
 - [TruthfulQA](https://github.com/sylinrl/TruthfulQA) - 817 questions testing agent truthfulness across domains.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - Benchmark for structured-output generation and cross-format conversion, evaluating syntax validity, structural correctness, and visual fidelity across 18 text and renderable formats.
 
 #### Specialized Domains
 - [ALFWorld](https://alfworld.github.io/) - Text-based embodied agents in interactive environments.
