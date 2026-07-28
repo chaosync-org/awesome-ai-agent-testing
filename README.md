@@ -213,7 +213,7 @@ Understanding different categories of AI agents is crucial for selecting appropr
 - **Testing Focus**: Goal achievement, navigation efficiency, error recovery
 - **Key Challenges**: Dynamic UI handling, state management, authentication
 - **Metrics**: Task completion rate, steps to completion, consistency (pass^k)
-- **Tools**: [WebArena](https://webarena.dev/), [τ-bench](https://sierra.ai/blog/benchmarking-ai-agents)
+- **Tools**: [WebArena](https://webarena.dev/), [τ-bench](https://sierra.ai/blog/benchmarking-ai-agents), [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)
 - **Case Study**: AutoGPT achieved only 24% success on web navigation tasks
 
 **Trading and Financial Agents** operating in financial markets.
