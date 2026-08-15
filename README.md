@@ -306,6 +306,12 @@ Understanding different categories of AI agents is crucial for selecting appropr
 
 Comprehensive frameworks for developing and testing AI agents.
 
+- [agent-qa](https://github.com/vostride/agent-qa) - **764 stars** - Open-source self-improving QA agent for software teams.
+  - Runs natural-language end-to-end tests across web and mobile applications
+  - Self-heals failed UI actions by observing the interface and trying another path
+  - Builds execution memory from prior runs to improve future tests
+  - Provides a dashboard, CLI, MCP server, and skills for coding agents
+
 - [LangChain](https://github.com/langchain-ai/langchain) - **15k+ stars** - Framework for developing applications powered by language models with extensive testing utilities.
   - Built-in evaluation chains for testing agent responses
   - Support for custom evaluation metrics
