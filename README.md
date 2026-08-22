@@ -457,6 +457,11 @@ Specialized tools for testing different categories of AI agents.
   - API call sequence validation
   - Domain-specific tool testing
   - Human-annotated test cases
+- [Mendmark](https://github.com/danielgaskins/mendmark) - Mutation testing for tool-using agent evaluation suites
+  - Plants controlled faults in passing tool-use traces
+  - Tests missing calls, corrupted arguments, repeated side effects, and hidden tool errors
+  - Reports which mutations survive the existing evaluators
+  - Runs locally and can gate evaluator regressions in CI
 
 #### Domain-Specific Agent Testing
 - [HealthBench](https://github.com/microsoft/HealthBench) - Medical AI agent evaluation
