@@ -485,6 +485,12 @@ Specialized tools for testing different categories of AI agents.
   - Standardized robot tasks
   - Multi-robot coordination testing
   - Physics-based simulation
+ 
+  - [AgentCheck](https://github.com/WaseemGhanem98/AgentCheck) - Open-source behavioral testing for tool-using AI agents.
+  - Tests tool calls, retries, confirmations, failures, and action sequencing
+  - Simulates declared tool actions without executing the original handlers
+  - Supports OpenAI Agents SDK, PydanticAI, and custom Python agents
+  - Produces PASS, FAIL, INCONCLUSIVE, and INFRA_ERROR results with inspectable reports
 
 ## Chaos Engineering and Fault Injection
 
