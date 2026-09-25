@@ -377,6 +377,12 @@ Enterprise-grade testing platforms with advanced features.
   - Performance analysis
   - Root cause analysis
 
+- [Noveum](https://noveum.ai/en/docs) - Agent tracing and evaluation platform for checking model and prompt changes.
+  - Evaluation datasets built from production traces
+  - Model comparisons with quality, latency, and cost metrics
+  - Python and TypeScript tracing SDKs
+  - Hosted MCP access to traces, datasets, and evaluation workflows
+
 ### Language-Specific Tools
 
 Testing tools tailored for specific programming languages.
