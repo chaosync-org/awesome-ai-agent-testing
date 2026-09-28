@@ -377,6 +377,12 @@ Enterprise-grade testing platforms with advanced features.
   - Performance analysis
   - Root cause analysis
 
+- [Twinbay](https://twinbay.ai) - Private, stateful copies of the third-party APIs a tool-using agent calls.
+  - Twins of Shopify, Slack, GitHub, HubSpot, Zendesk, QuickBooks and seven more, checked against each vendor's SDK in CI
+  - Directives that force rate limits, bounces and failed payments
+  - Grading of the agent's captured API calls against plain-language outcomes
+  - MCP server, CLI and REST API
+
 ### Language-Specific Tools
 
 Testing tools tailored for specific programming languages.
