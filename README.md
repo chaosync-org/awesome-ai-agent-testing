@@ -376,6 +376,11 @@ Enterprise-grade testing platforms with advanced features.
   - Drift detection
   - Performance analysis
   - Root cause analysis
+- [Netra](https://getnetra.ai/) - The single platform to trace, evaluate, simulate, and security test text, voice, image and video agents.
+  - Observability
+  - Evaluations
+  - Simulations
+  - Red Teaming
 
 ### Language-Specific Tools
 
