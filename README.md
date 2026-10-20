@@ -655,6 +655,10 @@ Environments that change and adapt during testing.
 - [PettingZoo](https://pettingzoo.farama.org/) - Multi-agent RL environments
 - [Meta-World](https://meta-world.github.io/) - Benchmark for multi-task RL
 - [RLlib](https://docs.ray.io/en/latest/rllib/index.html) - Scalable RL with dynamic environments
+- [Firedrill](https://docs.firedrill.run/) - Hosted AI agent simulations with optional stateful synthetic dependencies and retained evidence.
+  - Snapshot, restore and modeled time for synthetic Tool state
+  - Customer-owned target execution through CLI or native SDKs
+  - Optional semantic scoring and exact checks
 
 ### Game-Based Environments
 
