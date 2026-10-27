@@ -429,6 +429,10 @@ Specialized tools for testing different categories of AI agents.
   - Multi-accent and noise condition testing
   - Real and synthetic speech evaluation
   - Comprehensive metrics for voice agents
+- [TestMu AI Agent Testing](https://www.testmuai.com/agent-testing/) - Tests chat, voice, phone, video and image agents before and after release
+  - An AI tester holds multi-turn conversations with your agent across personas, and phone agents get real inbound and outbound calls
+  - Scores 9 quality metrics for chat and voice and 30+ call metrics for phone, including hallucination, bias and toxicity
+  - Validates voice agent tool calls via Vapi, Retell and ElevenLabs, and runs in CI with agent-testing-cli
 
 #### Autonomous Agent Testing
 - [WebArena](https://webarena.dev/) - Realistic web environment for autonomous agents
