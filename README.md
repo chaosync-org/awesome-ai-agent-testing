@@ -443,6 +443,10 @@ Specialized tools for testing different categories of AI agents.
   - 8 distinct environments
   - Multi-turn interaction support
   - Standardized evaluation protocols
+- [TestMu AI Agent Assurance](https://www.testmuai.com/agent-assurance/) - End-to-end testing for agents that act, graded on what the agent actually changed rather than what it says it did
+  - Generates the suite from a codebase, a requirements doc or both, including adversarial injection and tool-misuse cases
+  - Grades each criterion against the files, artifacts and tool calls observed during the run
+  - Reports unverifiable criteria separately from the pass rate; runs headless as Rook CLI with a JSON report for CI
 
 #### Tool-Using Agent Testing
 - [Berkeley Function Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html) - Benchmark for function calling
