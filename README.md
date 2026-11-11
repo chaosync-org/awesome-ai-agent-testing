@@ -490,6 +490,11 @@ Specialized tools for testing different categories of AI agents.
 
 ### Chaos Testing Tools
 
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Local educational simulator for retry/recovery faults, with scripted baselines and persisted-state assertions; not an LLM benchmark.
+  - Lost acknowledgements, partial failures, stale versions and invalid transitions
+  - Offline JSON traces and browser replays; trusted local Python adapter support
+
+
 Tools for introducing controlled chaos to test agent resilience.
 
 - [IBM Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for ML security testing.
